@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://services.esb.soa.orsan.cl/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http" name="ChequesService" targetNamespace="http://services.esb.soa.orsan.cl/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xs:schema elementFormDefault="unqualified" targetNamespace="http://services.esb.soa.orsan.cl/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="chequeProcess" type="tns:chequeProcess" />
+      <xs:element name="chequeProcessResponse" type="tns:chequeProcessResponse" />
+      <xs:complexType name="chequeProcess">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="arg0" type="xs:base64Binary" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="chequeProcessResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="xs:base64Binary" />
+        </xs:sequence>
+      </xs:complexType>
+    </xs:schema>
+  </wsdl:types>
+  <wsdl:message name="chequeProcess">
+    <wsdl:part name="parameters" element="tns:chequeProcess" />
+  </wsdl:message>
+  <wsdl:message name="chequeProcessResponse">
+    <wsdl:part name="parameters" element="tns:chequeProcessResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Cheques">
+    <wsdl:operation name="chequeProcess">
+      <wsdl:input name="chequeProcess" message="tns:chequeProcess" />
+      <wsdl:output name="chequeProcessResponse" message="tns:chequeProcessResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ChequesServiceSoapBinding" type="tns:Cheques">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="chequeProcess">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="chequeProcess">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="chequeProcessResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ChequesService">
+    <wsdl:port name="ChequesPort" binding="tns:ChequesServiceSoapBinding">
+      <soap:address location="http://200.55.196.180:9904/service" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

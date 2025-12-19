@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{26ACD31C-38DB-4B3D-BA18-6043BBD31080}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>caja2.My.MyApplication</StartupObject>
+    <RootNamespace>caja2</RootNamespace>
+    <AssemblyName>caja</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>caja.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>caja.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon-96x96 %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Epson.opos.tm.admin">
+      <HintPath>bin\Epson.opos.tm.admin.dll</HintPath>
+    </Reference>
+    <Reference Include="Epson.opos.tm.comm">
+      <HintPath>bin\Epson.opos.tm.comm.dll</HintPath>
+    </Reference>
+    <Reference Include="Epson.opos.tm.common">
+      <HintPath>bin\Epson.opos.tm.common.dll</HintPath>
+    </Reference>
+    <Reference Include="ESCPOS_NET, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ESCPOS_NET.2.0.0\lib\netstandard2.0\ESCPOS_NET.dll</HintPath>
+    </Reference>
+    <Reference Include="GlobalToolsNet2">
+      <HintPath>bin\GlobalToolsNet2.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.10.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.10\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.5.0.0\lib\net461\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Options.5.0.0\lib\net461\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.5.0.0\lib\net461\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.PointOfService, Version=1.14.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.PointOfService.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="SimpleTcp, Version=2.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SuperSimpleTcp.2.4.0\lib\net461\SimpleTcp.dll</HintPath>
+    </Reference>
+    <Reference Include="SixLabors.ImageSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d998eea7b14cab13, processorArchitecture=MSIL">
+      <HintPath>..\packages\SixLabors.ImageSharp.1.0.0\lib\netstandard2.0\SixLabors.ImageSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.Pdf, Version=8.6.1.0, Culture=neutral, PublicKeyToken=663f351905198cb3, processorArchitecture=MSIL">
+      <HintPath>..\packages\FreeSpire.PDF.8.6.0\lib\net40\Spire.Pdf.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.5.0.0\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.IO.Ports, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Ports.4.6.0\lib\net461\System.IO.Ports.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Text.Encodings.Web, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.5.0.1\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=5.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.5.0.2\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="TransbankPosSDK">
+      <HintPath>bin\TransbankPosSDK.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="caja2.BaseTransferencia_sapTableAdapters" />
+    <Import Include="caja2.DataSet_catalogoTableAdapters" />
+    <Import Include="caja2.PerfilesTableAdapters" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="class_APIDESIS.vb" />
+    <Compile Include="class_funciones.vb" />
+    <Compile Include="class_PdfMerger.vb" />
+    <Compile Include="DAL\BaseTransferencia_sap.vb">
+      <DependentUpon>BaseTransferencia_sap.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Perfiles.vb">
+      <DependentUpon>Perfiles.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DESIS\responseConsultarEstado.vb" />
+    <Compile Include="DESIS\responseProcesar.vb" />
+    <Compile Include="class_sap.vb" />
+    <Compile Include="DAL\BaseTransferencia_sap.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BaseTransferencia_sap.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\catalogo.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>catalogo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\catalogo.vb">
+      <DependentUpon>catalogo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="class_roundedButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="class_MICR.vb" />
+    <Compile Include="class_ORSAN.vb" />
+    <Compile Include="class_PosIntegrado.vb" />
+    <Compile Include="class_PosPrinter.vb" />
+    <Compile Include="class_producto.vb" />
+    <Compile Include="Configuracion.vb" />
+    <Compile Include="DAL\Perfiles.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Perfiles.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\WfAprobacion.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WfAprobacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DESIS\responseProcesarWSMasivo.vb" />
+    <Compile Include="DESIS\postConsultarEstado.vb" />
+    <Compile Include="DetailPrompt.designer.vb">
+      <DependentUpon>DetailPrompt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DetailPrompt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DTE\DTE_v10.vb" />
+    <Compile Include="DTE\EnvioBOLETA_v11.vb" />
+    <Compile Include="DTE\xmldsignature_v10.vb" />
+    <Compile Include="ExtensionesDataset.vb" />
+    <Compile Include="ExtensionesTipo.vb" />
+    <Compile Include="FrmCliente.Designer.vb">
+      <DependentUpon>FrmCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDESIS.Designer.vb">
+      <DependentUpon>FrmDESIS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDESIS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.vb">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuAdmin.Designer.vb">
+      <DependentUpon>FrmMenuAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPos.Designer.vb">
+      <DependentUpon>FrmPos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMICR.Designer.vb">
+      <DependentUpon>FrmMICR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMICR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNotaCredito.Designer.vb">
+      <DependentUpon>FrmNotaCredito.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNotaCredito.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.vb">
+      <DependentUpon>FrmPrincipal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDocCliente.Designer.vb">
+      <DependentUpon>FrmDocCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDocCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCierreCaja.Designer.vb">
+      <DependentUpon>FrmCierreCaja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCierreCaja.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscar.Designer.vb">
+      <DependentUpon>FrmBuscar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBuscar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipalAngosto.Designer.vb">
+      <DependentUpon>FrmPrincipalAngosto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipalAngosto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Models\AnularDepositoModel.vb" />
+    <Compile Include="Models\BloquearNotaVentaModel.vb" />
+    <Compile Include="Models\BloquearNotaVentaResponseModel.vb" />
+    <Compile Include="Models\CierreCajaModel.vb" />
+    <Compile Include="Models\CierreCajaResponseModel.vb" />
+    <Compile Include="Models\ClienteModel.vb" />
+    <Compile Include="Models\ClienteResponseModel.vb" />
+    <Compile Include="Models\ControlCreditoModel.vb" />
+    <Compile Include="Models\CrearVentaModel.vb" />
+    <Compile Include="Models\CrearVentaResponseModel.vb" />
+    <Compile Include="Models\MedioPagoModel.vb" />
+    <Compile Include="Models\MedioPagoResponseModel.vb" />
+    <Compile Include="Models\PartidasAbiertasClienteModel.vb" />
+    <Compile Include="Models\PedidoVentaModel.vb" />
+    <Compile Include="Models\ResolucionGarantiaResponseModel.vb" />
+    <Compile Include="Models\StockArticuloModel.vb" />
+    <Compile Include="Models\StockArticulosTiendaMasivo.vb" />
+    <Compile Include="Models\StockArticuloTiendaModel.vb" />
+    <Compile Include="Models\TiendasModel.vb" />
+    <Compile Include="Models\VerificarConexionModel.vb" />
+    <Compile Include="DESIS\postProcesar.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RefundPrompt.Designer.vb">
+      <DependentUpon>RefundPrompt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RefundPrompt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DESIS\postProcesarWSMasivo.vb" />
+    <Compile Include="Settings.vb" />
+    <Compile Include="Web References\OrsanWS\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmCliente.resx">
+      <DependentUpon>FrmCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDESIS.resx">
+      <DependentUpon>FrmDESIS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuAdmin.resx">
+      <DependentUpon>FrmMenuAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPos.resx">
+      <DependentUpon>FrmPos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMICR.resx">
+      <DependentUpon>FrmMICR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNotaCredito.resx">
+      <DependentUpon>FrmNotaCredito.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDocCliente.resx">
+      <DependentUpon>FrmDocCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCierreCaja.resx">
+      <DependentUpon>FrmCierreCaja.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuscar.resx">
+      <DependentUpon>FrmBuscar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipalAngosto.resx">
+      <DependentUpon>FrmPrincipalAngosto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RefundPrompt.resx">
+      <DependentUpon>RefundPrompt.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DAL\BaseTransferencia_sap.xsc">
+      <DependentUpon>BaseTransferencia_sap.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\BaseTransferencia_sap.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BaseTransferencia_sap.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DAL\BaseTransferencia_sap.xss">
+      <DependentUpon>BaseTransferencia_sap.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\Perfiles.xsc">
+      <DependentUpon>Perfiles.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\Perfiles.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Perfiles.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DAL\Perfiles.xss">
+      <DependentUpon>Perfiles.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\WfAprobacion.xsc">
+      <DependentUpon>WfAprobacion.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\WfAprobacion.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>WfAprobacion.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DAL\WfAprobacion.xss">
+      <DependentUpon>WfAprobacion.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\caja2.DataSet_catalogoTableAdapters.web_carroCompra2TableAdapter.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Web References\OrsanWS\ChequesService.wsdl" />
+    <None Include="Web References\OrsanWS\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DAL\catalogo.xsc">
+      <DependentUpon>catalogo.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\catalogo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>catalogo.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DAL\catalogo.xss">
+      <DependentUpon>catalogo.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Resources\logo4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon-96x96 %281%29.ico" />
+    <None Include="Resources\wifi.png" />
+    <None Include="Resources\wifioff.png" />
+    <None Include="Resources\connectionoff.png" />
+    <None Include="Resources\ConnectionOff.bmp" />
+    <None Include="Resources\Cancel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://200.55.196.180:9904/service%3fwsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\OrsanWS\</RelPath>
+      <UpdateFromURL>http://200.55.196.180:9904/service%3fwsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>caja_OrsanWS_ChequesServiceURL</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="PDF\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

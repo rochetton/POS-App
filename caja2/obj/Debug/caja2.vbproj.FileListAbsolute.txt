@@ -1,0 +1,1228 @@
+C:\Users\ignacio\AppData\Local\Temporary Projects\caja2\bin\Debug\caja2.exe
+C:\Users\ignacio\AppData\Local\Temporary Projects\caja2\bin\Debug\caja2.pdb
+C:\Users\ignacio\AppData\Local\Temporary Projects\caja2\bin\Debug\caja2.xml
+C:\Users\ignacio\AppData\Local\Temporary Projects\caja2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ignacio\AppData\Local\Temporary Projects\caja2\obj\Debug\caja2.Form1.resources
+C:\Users\ignacio\AppData\Local\Temporary Projects\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\ignacio\AppData\Local\Temporary Projects\caja2\obj\Debug\caja2.vbproj.GenerateResource.Cache
+C:\Users\ignacio\AppData\Local\Temporary Projects\caja2\obj\Debug\caja2.exe
+C:\Users\ignacio\AppData\Local\Temporary Projects\caja2\obj\Debug\caja2.xml
+C:\Users\ignacio\AppData\Local\Temporary Projects\caja2\obj\Debug\caja2.pdb
+C:\Users\ignacio\Desktop\caja2\caja2\bin\Debug\caja2.exe
+C:\Users\ignacio\Desktop\caja2\caja2\bin\Debug\caja2.pdb
+C:\Users\ignacio\Desktop\caja2\caja2\bin\Debug\caja2.xml
+C:\Users\ignacio\Desktop\caja2\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+C:\Users\ignacio\Desktop\caja2\caja2\obj\Debug\caja2.Form1.resources
+C:\Users\ignacio\Desktop\caja2\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\ignacio\Desktop\caja2\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\ignacio\Desktop\caja2\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\ignacio\Desktop\caja2\caja2\obj\Debug\caja2.exe
+C:\Users\ignacio\Desktop\caja2\caja2\obj\Debug\caja2.xml
+C:\Users\ignacio\Desktop\caja2\caja2\obj\Debug\caja2.pdb
+C:\Users\ignacio\Desktop\caja2\caja2\bin\Debug\caja2.exe.config
+C:\Users\FAU2\source\repos\VS2017\caja2\caja2\bin\Debug\caja2.exe.config
+C:\Users\FAU2\source\repos\VS2017\caja2\caja2\bin\Debug\caja2.exe
+C:\Users\FAU2\source\repos\VS2017\caja2\caja2\bin\Debug\caja2.pdb
+C:\Users\FAU2\source\repos\VS2017\caja2\caja2\bin\Debug\caja2.xml
+C:\Users\FAU2\source\repos\VS2017\caja2\caja2\obj\Debug\caja2.Form1.resources
+C:\Users\FAU2\source\repos\VS2017\caja2\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\FAU2\source\repos\VS2017\caja2\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\FAU2\source\repos\VS2017\caja2\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\FAU2\source\repos\VS2017\caja2\caja2\obj\Debug\caja2.exe
+C:\Users\FAU2\source\repos\VS2017\caja2\caja2\obj\Debug\caja2.xml
+C:\Users\FAU2\source\repos\VS2017\caja2\caja2\obj\Debug\caja2.pdb
+C:\Users\FAU2\source\repos\VS2017\caja2\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+C:\Users\ignacio\Desktop\caja3\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+C:\Users\ignacio\Desktop\caja3\caja2\obj\Debug\caja2.Form1.resources
+C:\Users\ignacio\Desktop\caja3\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\ignacio\Desktop\caja3\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\ignacio\Desktop\caja3\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\ignacio\Desktop\caja3\caja2\obj\Debug\caja2.Form2.resources
+C:\Users\ignacio\Desktop\caja3\caja2\obj\Debug\caja2.Form3.resources
+C:\Users\ignacio\Desktop\caja3\caja2\obj\Debug\caja2.Form4.resources
+C:\Users\ignacio\Desktop\caja3\caja2\bin\Debug\caja.exe.config
+C:\Users\ignacio\Desktop\caja3\caja2\bin\Debug\caja.exe
+C:\Users\ignacio\Desktop\caja3\caja2\bin\Debug\caja.pdb
+C:\Users\ignacio\Desktop\caja3\caja2\bin\Debug\caja.xml
+C:\Users\ignacio\Desktop\caja3\caja2\obj\Debug\caja.exe
+C:\Users\ignacio\Desktop\caja3\caja2\obj\Debug\caja.xml
+C:\Users\ignacio\Desktop\caja3\caja2\obj\Debug\caja.pdb
+D:\caja3\caja2\bin\Debug\caja.exe.config
+D:\caja3\caja2\bin\Debug\caja.exe
+D:\caja3\caja2\bin\Debug\caja.pdb
+D:\caja3\caja2\bin\Debug\caja.xml
+D:\caja3\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+D:\caja3\caja2\obj\Debug\caja2.Form1.resources
+D:\caja3\caja2\obj\Debug\caja2.Form2.resources
+D:\caja3\caja2\obj\Debug\caja2.Form3.resources
+D:\caja3\caja2\obj\Debug\caja2.Form4.resources
+D:\caja3\caja2\obj\Debug\caja2.Resources.resources
+D:\caja3\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+D:\caja3\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+D:\caja3\caja2\obj\Debug\caja.exe
+D:\caja3\caja2\obj\Debug\caja.xml
+D:\caja3\caja2\obj\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\caja4\caja2\bin\Debug\caja.exe.config
+C:\Users\FAU2\source\repos\VS2017\caja4\caja2\bin\Debug\caja.exe
+C:\Users\FAU2\source\repos\VS2017\caja4\caja2\bin\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\caja4\caja2\bin\Debug\caja.xml
+C:\Users\FAU2\source\repos\VS2017\caja4\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+C:\Users\FAU2\source\repos\VS2017\caja4\caja2\obj\Debug\caja2.Form1.resources
+C:\Users\FAU2\source\repos\VS2017\caja4\caja2\obj\Debug\caja2.Form2.resources
+C:\Users\FAU2\source\repos\VS2017\caja4\caja2\obj\Debug\caja2.Form3.resources
+C:\Users\FAU2\source\repos\VS2017\caja4\caja2\obj\Debug\caja2.Form4.resources
+C:\Users\FAU2\source\repos\VS2017\caja4\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\FAU2\source\repos\VS2017\caja4\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\FAU2\source\repos\VS2017\caja4\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\FAU2\source\repos\VS2017\caja4\caja2\obj\Debug\caja.exe
+C:\Users\FAU2\source\repos\VS2017\caja4\caja2\obj\Debug\caja.xml
+C:\Users\FAU2\source\repos\VS2017\caja4\caja2\obj\Debug\caja.pdb
+C:\Users\ignacio\Desktop\caja5\caja2\bin\Debug\caja.exe
+C:\Users\ignacio\Desktop\caja5\caja2\bin\Debug\caja.pdb
+C:\Users\ignacio\Desktop\caja5\caja2\bin\Debug\caja.xml
+C:\Users\ignacio\Desktop\caja5\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+C:\Users\ignacio\Desktop\caja5\caja2\obj\Debug\caja2.Form1.resources
+C:\Users\ignacio\Desktop\caja5\caja2\obj\Debug\caja2.Form2.resources
+C:\Users\ignacio\Desktop\caja5\caja2\obj\Debug\caja2.Form3.resources
+C:\Users\ignacio\Desktop\caja5\caja2\obj\Debug\caja2.Form4.resources
+C:\Users\ignacio\Desktop\caja5\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\ignacio\Desktop\caja5\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\ignacio\Desktop\caja5\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\ignacio\Desktop\caja5\caja2\obj\Debug\caja.exe
+C:\Users\ignacio\Desktop\caja5\caja2\obj\Debug\caja.xml
+C:\Users\ignacio\Desktop\caja5\caja2\obj\Debug\caja.pdb
+C:\Users\ignacio\Desktop\CAR-020201\caja6\caja2\bin\Debug\caja.exe
+C:\Users\ignacio\Desktop\CAR-020201\caja6\caja2\bin\Debug\caja.pdb
+C:\Users\ignacio\Desktop\CAR-020201\caja6\caja2\bin\Debug\caja.xml
+C:\Users\ignacio\Desktop\CAR-020201\caja6\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+C:\Users\ignacio\Desktop\CAR-020201\caja6\caja2\obj\Debug\caja2.Form1.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja6\caja2\obj\Debug\caja2.Form2.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja6\caja2\obj\Debug\caja2.Form3.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja6\caja2\obj\Debug\caja2.Form4.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja6\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja6\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\ignacio\Desktop\CAR-020201\caja6\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\ignacio\Desktop\CAR-020201\caja6\caja2\obj\Debug\caja.exe
+C:\Users\ignacio\Desktop\CAR-020201\caja6\caja2\obj\Debug\caja.xml
+C:\Users\ignacio\Desktop\CAR-020201\caja6\caja2\obj\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\caja6\caja2\bin\Debug\caja.exe
+C:\Users\FAU2\source\repos\VS2017\caja6\caja2\bin\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\caja6\caja2\bin\Debug\caja.xml
+C:\Users\FAU2\source\repos\VS2017\caja6\caja2\obj\Debug\caja2.Form1.resources
+C:\Users\FAU2\source\repos\VS2017\caja6\caja2\obj\Debug\caja2.Form2.resources
+C:\Users\FAU2\source\repos\VS2017\caja6\caja2\obj\Debug\caja2.Form3.resources
+C:\Users\FAU2\source\repos\VS2017\caja6\caja2\obj\Debug\caja2.Form4.resources
+C:\Users\FAU2\source\repos\VS2017\caja6\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\FAU2\source\repos\VS2017\caja6\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\FAU2\source\repos\VS2017\caja6\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\FAU2\source\repos\VS2017\caja6\caja2\obj\Debug\caja.exe
+C:\Users\FAU2\source\repos\VS2017\caja6\caja2\obj\Debug\caja.xml
+C:\Users\FAU2\source\repos\VS2017\caja6\caja2\obj\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\caja6\caja2\bin\Debug\caja.exe.config
+C:\Users\Fau4\source\repos\VS2017\caja6\caja2\bin\Debug\caja.exe.config
+C:\Users\Fau4\source\repos\VS2017\caja6\caja2\bin\Debug\caja.exe
+C:\Users\Fau4\source\repos\VS2017\caja6\caja2\bin\Debug\caja.pdb
+C:\Users\Fau4\source\repos\VS2017\caja6\caja2\bin\Debug\caja.xml
+C:\Users\Fau4\source\repos\VS2017\caja6\caja2\obj\Debug\caja2.Form1.resources
+C:\Users\Fau4\source\repos\VS2017\caja6\caja2\obj\Debug\caja2.Form2.resources
+C:\Users\Fau4\source\repos\VS2017\caja6\caja2\obj\Debug\caja2.Form3.resources
+C:\Users\Fau4\source\repos\VS2017\caja6\caja2\obj\Debug\caja2.Form4.resources
+C:\Users\Fau4\source\repos\VS2017\caja6\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\Fau4\source\repos\VS2017\caja6\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\Fau4\source\repos\VS2017\caja6\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\Fau4\source\repos\VS2017\caja6\caja2\obj\Debug\caja.exe
+C:\Users\Fau4\source\repos\VS2017\caja6\caja2\obj\Debug\caja.xml
+C:\Users\Fau4\source\repos\VS2017\caja6\caja2\obj\Debug\caja.pdb
+C:\Users\Fau4\source\repos\VS2017\caja6\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+C:\Users\FAU2\source\repos\VS2017\caja6\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+C:\Users\ignacio\Desktop\caja7\caja2\bin\Debug\caja.exe
+C:\Users\ignacio\Desktop\caja7\caja2\bin\Debug\caja.pdb
+C:\Users\ignacio\Desktop\caja7\caja2\bin\Debug\caja.xml
+C:\Users\ignacio\Desktop\caja7\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+C:\Users\ignacio\Desktop\caja7\caja2\obj\Debug\caja2.Form1.resources
+C:\Users\ignacio\Desktop\caja7\caja2\obj\Debug\caja2.Form2.resources
+C:\Users\ignacio\Desktop\caja7\caja2\obj\Debug\caja2.Form3.resources
+C:\Users\ignacio\Desktop\caja7\caja2\obj\Debug\caja2.Form4.resources
+C:\Users\ignacio\Desktop\caja7\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\ignacio\Desktop\caja7\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\ignacio\Desktop\caja7\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\ignacio\Desktop\caja7\caja2\obj\Debug\caja.exe
+C:\Users\ignacio\Desktop\caja7\caja2\obj\Debug\caja.xml
+C:\Users\ignacio\Desktop\caja7\caja2\obj\Debug\caja.pdb
+C:\Users\ignacio\Desktop\CAR-020201\caja8\caja2\bin\Debug\caja.exe
+C:\Users\ignacio\Desktop\CAR-020201\caja8\caja2\bin\Debug\caja.pdb
+C:\Users\ignacio\Desktop\CAR-020201\caja8\caja2\bin\Debug\caja.xml
+C:\Users\ignacio\Desktop\CAR-020201\caja8\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+C:\Users\ignacio\Desktop\CAR-020201\caja8\caja2\obj\Debug\caja2.Form1.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja8\caja2\obj\Debug\caja2.Form2.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja8\caja2\obj\Debug\caja2.Form3.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja8\caja2\obj\Debug\caja2.Form4.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja8\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja8\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\ignacio\Desktop\CAR-020201\caja8\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\ignacio\Desktop\CAR-020201\caja8\caja2\obj\Debug\caja.exe
+C:\Users\ignacio\Desktop\CAR-020201\caja8\caja2\obj\Debug\caja.xml
+C:\Users\ignacio\Desktop\CAR-020201\caja8\caja2\obj\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\caja9\caja2\bin\Debug\caja.exe
+C:\Users\FAU2\source\repos\VS2017\caja9\caja2\bin\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\caja9\caja2\bin\Debug\caja.xml
+C:\Users\FAU2\source\repos\VS2017\caja9\caja2\obj\Debug\caja2.Form1.resources
+C:\Users\FAU2\source\repos\VS2017\caja9\caja2\obj\Debug\caja2.Form2.resources
+C:\Users\FAU2\source\repos\VS2017\caja9\caja2\obj\Debug\caja2.Form3.resources
+C:\Users\FAU2\source\repos\VS2017\caja9\caja2\obj\Debug\caja2.Form4.resources
+C:\Users\FAU2\source\repos\VS2017\caja9\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\FAU2\source\repos\VS2017\caja9\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\FAU2\source\repos\VS2017\caja9\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\FAU2\source\repos\VS2017\caja9\caja2\obj\Debug\caja.exe
+C:\Users\FAU2\source\repos\VS2017\caja9\caja2\obj\Debug\caja.xml
+C:\Users\FAU2\source\repos\VS2017\caja9\caja2\obj\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\caja9\caja2\bin\Debug\caja.exe.config
+C:\Users\ignacio\Desktop\CAR-020201\caja9\caja2\bin\Debug\caja.exe.config
+C:\Users\ignacio\Desktop\CAR-020201\caja9\caja2\bin\Debug\caja.exe
+C:\Users\ignacio\Desktop\CAR-020201\caja9\caja2\bin\Debug\caja.pdb
+C:\Users\ignacio\Desktop\CAR-020201\caja9\caja2\bin\Debug\caja.xml
+C:\Users\ignacio\Desktop\CAR-020201\caja9\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+C:\Users\ignacio\Desktop\CAR-020201\caja9\caja2\obj\Debug\caja2.Form1.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja9\caja2\obj\Debug\caja2.Form2.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja9\caja2\obj\Debug\caja2.Form3.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja9\caja2\obj\Debug\caja2.Form4.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja9\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja9\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\ignacio\Desktop\CAR-020201\caja9\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\ignacio\Desktop\CAR-020201\caja9\caja2\obj\Debug\caja.exe
+C:\Users\ignacio\Desktop\CAR-020201\caja9\caja2\obj\Debug\caja.xml
+C:\Users\ignacio\Desktop\CAR-020201\caja9\caja2\obj\Debug\caja.pdb
+E:\caja9\caja2\bin\Debug\caja.exe.config
+E:\caja9\caja2\bin\Debug\caja.exe
+E:\caja9\caja2\bin\Debug\caja.pdb
+E:\caja9\caja2\bin\Debug\caja.xml
+E:\caja9\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+E:\caja9\caja2\obj\Debug\caja2.Form1.resources
+E:\caja9\caja2\obj\Debug\caja2.Form2.resources
+E:\caja9\caja2\obj\Debug\caja2.Form3.resources
+E:\caja9\caja2\obj\Debug\caja2.Form4.resources
+E:\caja9\caja2\obj\Debug\caja2.Resources.resources
+E:\caja9\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+E:\caja9\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+E:\caja9\caja2\obj\Debug\caja.exe
+E:\caja9\caja2\obj\Debug\caja.xml
+E:\caja9\caja2\obj\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\caja9\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+C:\Users\ignacio\Desktop\CAR-020201\caja10\caja2\bin\Debug\caja.exe.config
+C:\Users\ignacio\Desktop\CAR-020201\caja10\caja2\bin\Debug\caja.exe
+C:\Users\ignacio\Desktop\CAR-020201\caja10\caja2\bin\Debug\caja.pdb
+C:\Users\ignacio\Desktop\CAR-020201\caja10\caja2\bin\Debug\caja.xml
+C:\Users\ignacio\Desktop\CAR-020201\caja10\caja2\obj\Debug\caja2.Form1.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja10\caja2\obj\Debug\caja2.Form2.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja10\caja2\obj\Debug\caja2.Form3.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja10\caja2\obj\Debug\caja2.Form4.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja10\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\ignacio\Desktop\CAR-020201\caja10\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\ignacio\Desktop\CAR-020201\caja10\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\ignacio\Desktop\CAR-020201\caja10\caja2\obj\Debug\caja.exe
+C:\Users\ignacio\Desktop\CAR-020201\caja10\caja2\obj\Debug\caja.xml
+C:\Users\ignacio\Desktop\CAR-020201\caja10\caja2\obj\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\caja.exe.config
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\caja.exe
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\caja.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\obj\Debug\caja.exe
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\obj\Debug\caja.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\obj\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\obj\Debug\caja2.FrmPrincipal.resources
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\obj\Debug\caja2.FrmDocCliente.resources
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\obj\Debug\caja2.FrmCierreCaja.resources
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\obj\Debug\caja2.FrmBusqueda.resources
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\obj\Debug\caja2.frmNotaCredito.resources
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\netstandard.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.AppContext.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Collections.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.ComponentModel.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Console.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Data.Common.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Globalization.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.IO.Compression.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.IO.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.IO.Pipes.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Linq.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Net.Http.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Net.Ping.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Net.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Net.Requests.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Net.Security.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Net.Sockets.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.ObjectModel.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Reflection.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Resources.Reader.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Resources.Writer.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Runtime.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Security.Claims.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Security.Principal.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Security.SecureString.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Text.Encoding.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Threading.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Threading.Thread.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Threading.Timer.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Xml.XPath.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Epson.opos.tm.admin.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Epson.opos.tm.comm.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Epson.opos.tm.common.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\ESCPOS_NET.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Microsoft.PointOfService.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\SimpleTcp.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Buffers.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.IO.Ports.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Memory.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Text.Json.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.ValueTuple.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\Microsoft.PointOfService.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\SimpleTcp.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Buffers.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.IO.Ports.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Memory.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Text.Json.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\System.ValueTuple.xml
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\obj\Debug\caja2.FrmMICR.resources
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\obj\Debug\caja2.vbproj.CopyComplete
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\obj\Debug\caja2.RefundPrompt.resources
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\bin\Debug\TransbankPosSDK.dll
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\obj\Debug\caja2.FrmPos.resources
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\obj\Debug\caja2.FrmCliente.resources
+C:\Users\FAU2\source\repos\VS2017\caja10\caja2\obj\Debug\caja2.FrmDESIS.resources
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\caja.exe.config
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\caja.exe
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\caja.pdb
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\caja.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\netstandard.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.AppContext.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Collections.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.ComponentModel.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Console.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Data.Common.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Globalization.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.IO.Compression.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.IO.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.IO.Pipes.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Linq.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Net.Http.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Net.Ping.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Net.Primitives.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Net.Requests.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Net.Security.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Net.Sockets.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.ObjectModel.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Reflection.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Resources.Reader.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Resources.Writer.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Runtime.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Security.Claims.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Security.Principal.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Security.SecureString.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Text.Encoding.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Threading.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Threading.Thread.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Threading.Timer.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Xml.XPath.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Epson.opos.tm.admin.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Epson.opos.tm.comm.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Epson.opos.tm.common.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\ESCPOS_NET.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Microsoft.PointOfService.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\SimpleTcp.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Buffers.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.IO.Ports.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Memory.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Text.Json.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.ValueTuple.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\TransbankPosSDK.dll
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\Microsoft.PointOfService.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\SimpleTcp.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Buffers.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.IO.Ports.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Memory.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Text.Json.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\bin\Debug\System.ValueTuple.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja2.FrmCliente.resources
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja2.FrmDESIS.resources
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja2.FrmPos.resources
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja2.FrmMICR.resources
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja2.frmNotaCredito.resources
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja2.FrmPrincipal.resources
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja2.FrmDocCliente.resources
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja2.FrmCierreCaja.resources
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja2.FrmBusqueda.resources
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja2.RefundPrompt.resources
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja2.vbproj.CopyComplete
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja.exe
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja.xml
+C:\Users\FAU3\Desktop\caja 1.9\caja 1.9\caja2\obj\Debug\caja.pdb
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\caja.exe.config
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\caja.exe
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\caja.pdb
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\caja.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\netstandard.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.AppContext.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Collections.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.ComponentModel.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Console.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Data.Common.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Globalization.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.IO.Compression.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.IO.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.IO.Pipes.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Linq.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Net.Http.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Net.Ping.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Net.Primitives.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Net.Requests.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Net.Security.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Net.Sockets.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.ObjectModel.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Reflection.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Resources.Reader.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Resources.Writer.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Runtime.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Security.Claims.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Security.Principal.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Security.SecureString.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Text.Encoding.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Threading.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Threading.Thread.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Threading.Timer.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Xml.XPath.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Epson.opos.tm.admin.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Epson.opos.tm.comm.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Epson.opos.tm.common.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\ESCPOS_NET.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Microsoft.PointOfService.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\SimpleTcp.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Buffers.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.IO.Ports.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Memory.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Text.Json.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.ValueTuple.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\TransbankPosSDK.dll
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\Microsoft.PointOfService.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\SimpleTcp.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Buffers.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.IO.Ports.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Memory.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Text.Json.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\bin\Debug\System.ValueTuple.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja2.FrmCliente.resources
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja2.FrmDESIS.resources
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja2.FrmPos.resources
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja2.FrmMICR.resources
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja2.frmNotaCredito.resources
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja2.FrmPrincipal.resources
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja2.FrmDocCliente.resources
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja2.FrmCierreCaja.resources
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja2.FrmBusqueda.resources
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja2.RefundPrompt.resources
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja2.vbproj.CopyComplete
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja.exe
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja.xml
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja.pdb
+C:\Users\ifau\Desktop\caja 1.9\caja2\obj\Debug\caja2.FrmLogin.resources
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\caja.exe.config
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\caja.exe
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\caja.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\netstandard.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.AppContext.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Collections.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.ComponentModel.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Console.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Data.Common.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Globalization.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.IO.Compression.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.IO.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.IO.Pipes.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Linq.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Net.Http.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Net.Ping.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Net.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Net.Requests.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Net.Security.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Net.Sockets.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.ObjectModel.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Reflection.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Resources.Reader.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Resources.Writer.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Runtime.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Security.Claims.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Security.Principal.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Security.SecureString.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Text.Encoding.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Threading.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Threading.Thread.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Threading.Timer.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Xml.XPath.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Epson.opos.tm.admin.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Epson.opos.tm.comm.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Epson.opos.tm.common.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\ESCPOS_NET.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Microsoft.PointOfService.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\SimpleTcp.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Buffers.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.IO.Ports.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Memory.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Text.Json.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.ValueTuple.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\TransbankPosSDK.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Microsoft.PointOfService.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\SimpleTcp.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Buffers.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.IO.Ports.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Memory.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Text.Json.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\System.ValueTuple.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja2.FrmCliente.resources
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja2.FrmDESIS.resources
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja2.FrmLogin.resources
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja2.FrmPos.resources
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja2.FrmMICR.resources
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja2.frmNotaCredito.resources
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja2.FrmPrincipal.resources
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja2.FrmDocCliente.resources
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja2.FrmCierreCaja.resources
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja2.FrmBusqueda.resources
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja2.RefundPrompt.resources
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja2.vbproj.CopyComplete
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja.exe
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\itextsharp.dll
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\bin\Debug\itextsharp.xml
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja2.FrmMenuAdmin.resources
+C:\Users\FAU2\source\repos\VS2017\Caja 1.10\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\caja.exe.config
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\caja.exe
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\caja.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\netstandard.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.AppContext.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Collections.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.ComponentModel.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Console.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Data.Common.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Globalization.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.IO.Compression.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.IO.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.IO.Pipes.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Linq.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Net.Http.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Net.Ping.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Net.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Net.Requests.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Net.Security.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Net.Sockets.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.ObjectModel.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Reflection.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Resources.Reader.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Resources.Writer.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Runtime.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Security.Claims.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Security.Principal.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Security.SecureString.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Text.Encoding.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Threading.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Threading.Thread.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Threading.Timer.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Xml.XPath.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Epson.opos.tm.admin.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Epson.opos.tm.comm.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Epson.opos.tm.common.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\ESCPOS_NET.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\itextsharp.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.PointOfService.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\SimpleTcp.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Buffers.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.IO.Ports.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Memory.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Text.Json.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.ValueTuple.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\TransbankPosSDK.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\itextsharp.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.PointOfService.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\SimpleTcp.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Buffers.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.IO.Ports.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Memory.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Text.Json.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\System.ValueTuple.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.FrmCliente.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.FrmDESIS.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.FrmLogin.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.FrmMenuAdmin.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.FrmPos.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.FrmMICR.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.frmNotaCredito.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.FrmPrincipal.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.FrmDocCliente.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.FrmCierreCaja.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.FrmBusqueda.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.RefundPrompt.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.vbproj.CopyComplete
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja.exe
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Spire.Pdf.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Microsoft.mshtml.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\Spire.Pdf.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.FrmPrincipalAngosto.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\GlobalToolsNet2.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\GlobalToolsNet2.pdb
+C:\Users\FAU2\source\repos\VS2017\CajaCaren\caja2\bin\Debug\GlobalToolsNet2.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\caja.exe.config
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\caja.exe
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\caja.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\netstandard.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.AppContext.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Collections.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.ComponentModel.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Console.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Data.Common.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Globalization.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.IO.Compression.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.IO.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.IO.Pipes.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Linq.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Net.Http.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Net.Ping.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Net.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Net.Requests.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Net.Security.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Net.Sockets.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.ObjectModel.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Reflection.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Resources.Reader.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Resources.Writer.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Runtime.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Security.Claims.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Security.Principal.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Security.SecureString.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Text.Encoding.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Threading.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Threading.Thread.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Threading.Timer.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Xml.XPath.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Epson.opos.tm.admin.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Epson.opos.tm.comm.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Epson.opos.tm.common.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\ESCPOS_NET.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\GlobalToolsNet2.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\itextsharp.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.PointOfService.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\SimpleTcp.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Spire.Pdf.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Buffers.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.IO.Ports.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Memory.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Text.Json.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.ValueTuple.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\TransbankPosSDK.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.mshtml.dll
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\GlobalToolsNet2.pdb
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\GlobalToolsNet2.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\itextsharp.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Microsoft.PointOfService.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\SimpleTcp.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\Spire.Pdf.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Buffers.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.IO.Ports.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Memory.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Text.Json.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\bin\Debug\System.ValueTuple.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.FrmCliente.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.FrmDESIS.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.FrmLogin.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.FrmMenuAdmin.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.FrmPos.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.FrmMICR.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.frmNotaCredito.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.FrmPrincipal.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.FrmDocCliente.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.FrmCierreCaja.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.FrmBusqueda.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.FrmPrincipalAngosto.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.Resources.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.RefundPrompt.resources
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.vbproj.GenerateResource.cache
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.vbproj.CoreCompileInputs.cache
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.vbproj.CopyComplete
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja.exe
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja.xml
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja.pdb
+C:\Users\FAU2\source\repos\VS2017\CajaCaren.2.38.2\caja2\obj\Debug\caja2.vbprojAssemblyReference.cache

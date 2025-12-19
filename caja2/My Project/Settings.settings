@@ -1,0 +1,134 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="FormatoImpresionCheque" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="SAPUsername1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">POS</Value>
+    </Setting>
+    <Setting Name="puertoPOSTransbank" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">COM3</Value>
+    </Setting>
+    <Setting Name="numeroCaja" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="nombreBancoDeposito" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CHILE</Value>
+    </Setting>
+    <Setting Name="empresaSAP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="monedaSAP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CLP</Value>
+    </Setting>
+    <Setting Name="SapOrgVentas" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="SapSector" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="DESISMetodoProcesar" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="RangoDiasCheque" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="MailSmtpServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">smtp-mail.outlook.com</Value>
+    </Setting>
+    <Setting Name="MailSmtpServerPort" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="MailSmtpEnableSSL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MailPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Vntas.03300</Value>
+    </Setting>
+    <Setting Name="SAPBPBoleta" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0010060511</Value>
+    </Setting>
+    <Setting Name="RangoAjustePesos" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="DESISUsuario" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CARENSPA</Value>
+    </Setting>
+    <Setting Name="DESISPuerto" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="clienteSAP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="CatalogoCARENConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=ec2-54-207-176-250.sa-east-1.compute.amazonaws.com;Initial Catalog=catalogoCAREN;Persist Security Info=True;connection timeout=1000;User ID=fau_consulting2;Password=Fau.03200;&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=ec2-54-207-176-250.sa-east-1.compute.amazonaws.com;Initial Catalog=catalogoCAREN;Persist Security Info=True;connection timeout=1000;User ID=fau_consulting2;Password=Fau.03200;</Value>
+    </Setting>
+    <Setting Name="BaseTransferencia_sapConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=ec2-54-207-176-250.sa-east-1.compute.amazonaws.com;Initial Catalog=BaseTransferencia_sap;Persist Security Info=True;connection timeout=1000;User ID=fau_consulting2;Password=Fau.03200;&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=ec2-54-207-176-250.sa-east-1.compute.amazonaws.com;Initial Catalog=BaseTransferencia_sap;Persist Security Info=True;connection timeout=1000;User ID=fau_consulting2;Password=Fau.03200;</Value>
+    </Setting>
+    <Setting Name="WfAprobacionConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=ec2-54-207-176-250.sa-east-1.compute.amazonaws.com;Initial Catalog=WfAprobacion;Persist Security Info=True;connection timeout=1000;User ID=fau_consulting2;Password=Fau.03200;&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=ec2-54-207-176-250.sa-east-1.compute.amazonaws.com;Initial Catalog=WfAprobacion;Persist Security Info=True;connection timeout=1000;User ID=fau_consulting2;Password=Fau.03200;</Value>
+    </Setting>
+    <Setting Name="PerfilesConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=ec2-54-207-176-250.sa-east-1.compute.amazonaws.com;Initial Catalog=Perfiles;Persist Security Info=True;connection timeout=1000;User ID=fau_consulting2;Password=Fau.03200;&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=ec2-54-207-176-250.sa-east-1.compute.amazonaws.com;Initial Catalog=Perfiles;Persist Security Info=True;connection timeout=1000;User ID=fau_consulting2;Password=Fau.03200;</Value>
+    </Setting>
+    <Setting Name="caja_OrsanWS_ChequesServiceURL" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://201.238.254.222:9904/service</Value>
+    </Setting>
+    <Setting Name="caja_OrsanWS_IdUnico" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CHC1390H28HB4709</Value>
+    </Setting>
+    <Setting Name="SAPPassword1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Caren.Pos.22</Value>
+    </Setting>
+    <Setting Name="SAPUsername2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">btpsap@caren.cl</Value>
+    </Setting>
+    <Setting Name="SAPPassword2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Dul05271</Value>
+    </Setting>
+    <Setting Name="AmbienteSAP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="codigosExclusionStock" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">600302|600312</Value>
+    </Setting>
+    <Setting Name="MailFrom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ventasqa@caren.cl</Value>
+    </Setting>
+    <Setting Name="MailPruebas" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">chernandez@fauconsulting.cl</Value>
+    </Setting>
+    <Setting Name="urlECommerce" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://ws.caren.cl/catalogoQA</Value>
+    </Setting>
+    <Setting Name="DESISRut" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1-9</Value>
+    </Setting>
+    <Setting Name="DESISPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">plano91098</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
